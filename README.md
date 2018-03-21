@@ -1,0 +1,2 @@
+# hfile2txt
+使用HFileInputFormat读取hbase的hfile的冷数据，并转成txt
